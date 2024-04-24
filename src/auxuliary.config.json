@@ -1,0 +1,12 @@
+{
+  "textField": [
+    {
+      "placeholder": "Введите логин",
+      "type": "login"
+    },
+    {
+      "placeholder": "Введите пароль",
+      "type": "password"
+    }
+  ]
+}
